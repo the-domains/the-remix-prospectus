@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Remix Prospectus]]></title>
         <description><![CDATA[The Remix Prospectus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-remix-prospectus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 13:38:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 13:38:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-remix-prospectus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee008655-ea5f-4bc0-91b8-653ba53ded00.jpg">]]></description>
+            <link>https://thegrid.ai/the-remix-prospectus/the-remix-process/index.html</link>
+            <guid isPermaLink="false">421de4ba-5ef7-4076-aacf-be9664639b66</guid>
+            <pubDate>Sun, 17 Jul 2016 13:38:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee94750b-e530-4f8e-be65-844ab135dbd8.jpg">]]></description>
-            <link>undefinedthe-remix-outcomes/index.html</link>
+            <link>https://thegrid.ai/the-remix-prospectus/the-remix-outcomes/index.html</link>
             <guid isPermaLink="false">5f58390e-d794-45ce-bcff-4860c332852e</guid>
             <pubDate>Sun, 17 Jul 2016 13:38:14 GMT</pubDate>
         </item>
